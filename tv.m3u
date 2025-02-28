@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 ,fox
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,CCTV1HD
 http://vss.cbnmtv.com/live/yt_cctv1_h_1.m3u8?channelid=yt_cctv1_h
 #EXTINF:-1 ,CCTV2HD
